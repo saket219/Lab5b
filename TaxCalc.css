@@ -1,0 +1,51 @@
+h1{
+    float: top;
+    font-style: normal;
+    color:blue;
+    text-align: center;
+    justify-content: center;
+    }
+    body{
+        text-align: var(--left);
+        background-color: aquamarine;
+        align-self: auto;
+    }
+    input[type=text] {
+        width: 10%;
+        padding: 4px 10px;
+        margin: 5px 0;
+        box-sizing: content-box;
+        align-self: auto;
+        font-weight: bold;
+        font-size: medium;
+            
+          }
+      
+label{
+        display: inline-block;
+        width: 150px;
+        text-align: right;
+    
+}
+h2{
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: bottom center;
+    font-weight: 100;
+    justify-content: left;
+           
+      color: black;
+}
+
+p{
+    text-align: left top;
+    margin: 50px;
+    font-family: helvetica;
+    font-weight: bold;
+    }
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+
+}
